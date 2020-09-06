@@ -4,25 +4,9 @@
       "id": 1,
       "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
+      "price": "21.99",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgestion.pe%2Fresizer%2FPGvKBxjTr0beMxp7a4owwunOfDQ%3D%2F940x569%2Fsmart%2Farc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com%2Fpublic%2FHUX6QQCCYZCZFICTNWVTGUD4S4.jpg&f=1&nofb=1",
@@ -30,52 +14,6 @@
       "price": "29.99",
       "description": "A famosa moda italiana",
       "id": 4
-    },
-    {
-      "image": "      \"image\": \"https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png\"",
-      "name": "Pizza",
-      "price": "44.44",
-      "description": "Pizza muita boa",
-      "id": 5
-    },
-    {
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgestion.pe%2Fresizer%2FPGvKBxjTr0beMxp7a4owwunOfDQ%3D%2F940x569%2Fsmart%2Farc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com%2Fpublic%2FHUX6QQCCYZCZFICTNWVTGUD4S4.jpg&f=1&nofb=1",
-      "name": "Pizza",
-      "price": "44.44",
-      "description": "Pizza à moda italiana",
-      "id": 6
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "Moda italiana 2",
-      "price": "33.43",
-      "description": "Moda Italiana 2",
-      "available": true,
-      "id": 7
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "Moda italiana 3",
-      "price": "44.44",
-      "description": "Moda italiana 3",
-      "available": true,
-      "id": 8
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "Moda Italiana 3",
-      "price": "44.44",
-      "description": "MOda Italiana 3",
-      "available": true,
-      "id": 9
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "Tests",
-      "price": "4.44",
-      "description": "tests",
-      "available": true,
-      "id": 10
     }
   ]
 }
