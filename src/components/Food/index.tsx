@@ -31,7 +31,6 @@ const Food: React.FC<IProps> = ({
   }
 
   function setEditingFood(): void {
-    setIsAvailable(false);
     handleEditFood(food);
   }
 
